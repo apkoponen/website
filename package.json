@@ -23,7 +23,7 @@
     "@types/lodash.debounce": "4.0.6",
     "@types/mdx-js__react": "1.5.3",
     "@types/node": "13.13.21",
-    "@types/react": "16.9.49",
+    "@types/react": "17.0.0",
     "@types/react-beautiful-dnd": "13.0.0",
     "@types/react-dom": "16.9.8",
     "@types/react-helmet": "6.1.0",
@@ -132,7 +132,7 @@
     "vfile": "4.2.0"
   },
   "resolutions": {
-    "@types/react": "16.9.49",
+    "@types/react": "17.0.0",
     "@types/vfile-message": "1.0.1",
     "gatsby-react-router-scroll": "3.0.3"
   }
